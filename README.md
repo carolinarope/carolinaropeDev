@@ -4,7 +4,7 @@
 ---
 ### 👩‍💻 Sobre mim
 
-* 💻 Sou Dev em formação, atualmente com foco em **Python, SQL**.
+* 💻 Sou Dev em formação, atualmente com foco em **Python,Java SQL**.
 * 🌱 Estou sempre construindo projetos e aplicando desafios para aprimorar meus conhecimentos.
 * 🚀 Aqui você vai ver minha jornada e meus projetos de estudo!
 <picture>
